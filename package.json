@@ -1,6 +1,6 @@
 {
   "name": "confirm.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Your trusty CLI confirmation prompt.",
   "main": "lib/index.js",
   "scripts": {
